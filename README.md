@@ -62,6 +62,8 @@ It combines *Exploratory Data Analysis (EDA), **data visualization, and **machin
 
 ## 📦 Project Structure
 
+---
+
 Heart-Disease-Prediction/
 │
 ├── Heart Disease Anlysis.ipynb
@@ -73,8 +75,7 @@ Heart-Disease-Prediction/
 ├── README.md
 └── requirements.txt
 
-yaml
-Copy code
+---
 
 ---
 
