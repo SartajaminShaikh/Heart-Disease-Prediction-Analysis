@@ -74,7 +74,7 @@ Heart-Disease-Prediction/
 │ └── plots/
 ├── README.md
 └── requirements.txt
-
+```
 
 
 ---
@@ -150,6 +150,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 jupyter notebook
 Open Heart Disease Anlysis.ipynb.
 
+``` 
 📈 Results
 Machine learning models successfully predict heart disease
 
