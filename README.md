@@ -151,7 +151,7 @@ jupyter notebook
 Open Heart Disease Anlysis.ipynb.
 
 ``` 
-📈 Results
+## 📈 Results
 Machine learning models successfully predict heart disease
 
 Random Forest achieved the best overall performance
@@ -160,7 +160,9 @@ Results align with real-world clinical risk factors
 
 Dataset is suitable for healthcare predictive analytics
 
-🎯 Key Resume Highlights
+---
+ 
+## 🎯 Key Resume Highlights
 Performed exploratory data analysis on medical datasets
 
 Built and evaluated machine learning classification models
@@ -171,7 +173,7 @@ Visualized healthcare trends using Python libraries
 
 Evaluated models using industry-standard metrics
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 Deep learning models (ANN)
 
 Web app using Flask or Streamlit
@@ -184,10 +186,10 @@ Real-time patient input system
 
 Mobile healthcare application
 
-📝 License
+## 📝 License
 This project is licensed under the MIT License.
 
-👤 Author
+## 👤 Author
 Sartajamin Musa Shaikh
 
 📞 Contact
