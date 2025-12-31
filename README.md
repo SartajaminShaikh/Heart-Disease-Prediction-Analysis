@@ -62,7 +62,7 @@ It combines *Exploratory Data Analysis (EDA), **data visualization, and **machin
 
 ## 📦 Project Structure
 
----
+```bash
 
 Heart-Disease-Prediction/
 │
